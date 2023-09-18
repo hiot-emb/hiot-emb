@@ -35,7 +35,8 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c%2B%2B"/>
+  <img src="![image](https://github.com/hiot-emb/hiot-emb/assets/137071532/8bd6a66b-1c07-4024-aaea-bb43f39d1000)
+"/>
 </p>
 </br>
 <!--
