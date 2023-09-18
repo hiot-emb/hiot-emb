@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
-</br>
+
 <!--
 **hiot-emb/hiot-emb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
